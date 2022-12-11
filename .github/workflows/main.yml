@@ -1,5 +1,3 @@
-    place the provided starter code with this:
-
 name: Nucamp Tutorials App Pipeline
 
 # Set up how the workflow is triggered
@@ -53,4 +51,3 @@ jobs:
       # Run all tests with verbose flag
       - name: Run all tests
         run: pytest -v
-
